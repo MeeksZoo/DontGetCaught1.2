@@ -1,0 +1,3 @@
+[submodule "DontGetCaught/DontGetCaught/Assets/NavMeshComponents"]
+	path = DontGetCaught/DontGetCaught/Assets/NavMeshComponents
+	url = https://github.com/MeeksZoo/NavMesh-Feature-Demo.git
