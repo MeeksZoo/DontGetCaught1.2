@@ -1,3 +1,6 @@
 [submodule "DontGetCaught/DontGetCaught/Assets/NavMeshComponents"]
 	path = DontGetCaught/DontGetCaught/Assets/NavMeshComponents
 	url = https://github.com/MeeksZoo/NavMesh-Feature-Demo.git
+[submodule "DontGetCaught/DontGetCaught/Assets/HelioClass"]
+	path = DontGetCaught/DontGetCaught/Assets/HelioClass
+	url = https://github.com/MeeksZoo/HelioUnity2018Fall.git
