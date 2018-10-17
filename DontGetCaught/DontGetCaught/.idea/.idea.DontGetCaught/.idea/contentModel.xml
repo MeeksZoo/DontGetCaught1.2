@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NavMeshComponents" t="Include">
+          <e p="NavMesh_Project" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Examples" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="NavMeshPrefabInstanceEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="AgentLinkMover.cs" t="Include" />
+                  <e p="ClickToMove.cs" t="Include" />
+                  <e p="DestroyOnTrigger.cs" t="Include" />
+                  <e p="DungeonManager.cs" t="Include" />
+                  <e p="EnableIffSleeping.cs" t="Include" />
+                  <e p="FreeCam.cs" t="Include" />
+                  <e p="LocalNavMeshBuilder.cs" t="Include" />
+                  <e p="MeshTool.cs" t="Include" />
+                  <e p="NavMeshPrefabInstance.cs" t="Include" />
+                  <e p="NavMeshSourceTag.cs" t="Include" />
+                  <e p="Oscillator.cs" t="Include" />
+                  <e p="RandomInstancing.cs" t="Include" />
+                  <e p="RandomWalk.cs" t="Include" />
+                  <e p="SpawnPrefabOnKeyDown.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Meshes" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="ToonShader.shader" t="Include" />
+                </e>
+              </e>
+              <e p="NavMeshComponents" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                  <e p="NavMeshLinkEditor.cs" t="Include" />
+                  <e p="NavMeshModifierEditor.cs" t="Include" />
+                  <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                  <e p="NavMeshSurfaceEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="NavMeshLink.cs" t="Include" />
+                  <e p="NavMeshModifier.cs" t="Include" />
+                  <e p="NavMeshModifierVolume.cs" t="Include" />
+                  <e p="NavMeshSurface.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Prefabs" t="Include">
+                <e p="Maze Tiles" t="Include">
+                  <e p="maze_generation.cs" t="Include" />
+                  <e p="mazeTools.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="AgentAreaBaker.cs" t="Include" />
+                <e p="CameraFollow.cs" t="Include" />
+                <e p="Demo1Controller.cs" t="Include" />
+                <e p="Demo2Controller.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="NavMeshBuilderEditor.cs" t="Include" />
+                </e>
+                <e p="Enemy.cs" t="Include" />
+                <e p="LandscapeBuilder.cs" t="Include" />
+                <e p="LookAtTarget.cs" t="Include" />
+                <e p="MazeBuilder.cs" t="Include" />
+                <e p="MazeTarget.cs" t="Include" />
+                <e p="NavMeshBaker.cs" t="Include" />
+                <e p="Player_ClickToMove.cs" t="Include" />
+                <e p="Player_ControllerMove.cs" t="Include" />
+                <e p="Player_ForwardMove.cs" t="Include" />
+                <e p="Player_TargetFollower.cs" t="Include" />
+                <e p="PlayerExample.cs" t="Include" />
+                <e p="Rotate.cs" t="Include" />
+                <e p="SimpleNavAgentAnimation.cs" t="Include" />
+                <e p="Waypoint.cs" t="Include" />
+                <e p="WaypointFollower.cs" t="Include" />
+                <e p="Win.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AddColor.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DontGetCaught.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_DontGetCaught.-1073449895.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>
