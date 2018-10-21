@@ -5,6 +5,35 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AIProgram" t="Include">
+          <e p="AiBase.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+        </e>
+        <e p="ArtisanDream.Experimental" t="Include">
+          <e p="AI" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AddPatrolPointsList.cs" t="Include" />
+              <e p="AiBehaviour.cs" t="Include" />
+              <e p="AiBrain.cs" t="Include" />
+              <e p="AiHunt.cs" t="Include" />
+              <e p="AiPatrol.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SingleVariables" t="Include">
+            <e p="PatrolPoint.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ArtisanDream.Tools" t="Include">
+          <e p="Actions" t="Include">
+            <e p="GameAction.cs" t="Include" />
+          </e>
+          <e p="Behaviours" t="Include">
+            <e p="StartBehaviour.cs" t="Include" />
+          </e>
+          <e p="SingleVariables" t="Include">
+            <e p="FloatBase.cs" t="Include" />
+          </e>
+        </e>
         <e p="NavMeshComponents" t="Include">
           <e p="NavMesh_Project" t="Include">
             <e p="Assets" t="Include">
@@ -85,6 +114,12 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AddColor.cs" t="Include" />
+          <e p="CharacterMovers" t="Include">
+            <e p="CharacterMover.cs" t="Include" />
+          </e>
+          <e p="UnityActionLight" t="Include">
+            <e p="LightAction.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="DontGetCaught.sln" t="IncludeFlat" />
