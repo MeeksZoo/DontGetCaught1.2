@@ -7,10 +7,14 @@
       <e p="Assets" t="Include">
         <e p="AIProgram" t="Include">
           <e p="AiBase.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
         </e>
         <e p="ArtisanDream.Experimental" t="Include">
           <e p="AI" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Speed" t="Include">
+                <e p="FloatData.cs" t="Include" />
+              </e>
+            </e>
             <e p="Scripts" t="Include">
               <e p="AddPatrolPointsList.cs" t="Include" />
               <e p="AiBehaviour.cs" t="Include" />
@@ -114,9 +118,6 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AddColor.cs" t="Include" />
-          <e p="CharacterMovers" t="Include">
-            <e p="CharacterMover.cs" t="Include" />
-          </e>
           <e p="UnityActionLight" t="Include">
             <e p="LightAction.cs" t="Include" />
           </e>

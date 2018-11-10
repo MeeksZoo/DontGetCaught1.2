@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc79c88228e340ae94f9104e7ad7473, type: 3}
   m_Name: Patrol
   m_EditorClassIdentifier: 
-  Speed: {fileID: 11400000, guid: aba56aa4c5baf47f08db433b7e038d0a, type: 2}
-  AngularSpeed: {fileID: 11400000, guid: c704c0d4986c64145814569438fe257b, type: 2}
+  Speed: {fileID: 11400000, guid: dcfee141f7e474c3ca926c46b7399005, type: 2}
+  AngularSpeed: {fileID: 11400000, guid: dcfee141f7e474c3ca926c46b7399005, type: 2}
   NextPatrol:
     m_PersistentCalls:
       m_Calls:
