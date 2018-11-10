@@ -1,11 +1,13 @@
 fileFormatVersion: 2
 guid: edc79c88228e340ae94f9104e7ad7473
-timeCreated: 1520393142
-licenseType: Pro
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Speed: {fileID: 11400000, guid: dcfee141f7e474c3ca926c46b7399005, type: 2}
+  - AngularSpeed: {fileID: 11400000, guid: dcfee141f7e474c3ca926c46b7399005, type: 2}
+  - AddPointsToList: {fileID: 11400000, guid: 5469c199940c34043b5d7e4e873ae6bb, type: 2}
+  - AddPointList: {fileID: 11400000, guid: 5469c199940c34043b5d7e4e873ae6bb, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

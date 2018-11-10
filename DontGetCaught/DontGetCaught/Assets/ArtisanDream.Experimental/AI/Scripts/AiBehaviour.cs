@@ -19,7 +19,7 @@ public class AiBehaviour : MonoBehaviour
 
 	private void Start()
 	{
-		TransferCoroutine.CallNoArgs = CallNoArgs;
+		TransferCoroutine.RaiseNoArgs = CallNoArgs;
 		Brain.Base = OnStart;
 		coroutine = StartCoroutine(Brain.Base.Nav(agent));
 	}

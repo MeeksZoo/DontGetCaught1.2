@@ -14,7 +14,7 @@ public class AiHunt : AiBase
 
 	private void OnEnable()
 	{
-		GameAction.Call += Call;
+		GameAction.Raise += Call;
 	}
 
 	private void Call(object obj)

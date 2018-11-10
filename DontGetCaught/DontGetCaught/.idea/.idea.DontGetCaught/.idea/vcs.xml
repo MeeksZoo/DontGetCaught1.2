@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass/HelioFallClass/Assets/ArtisanDream.Experimental" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass/HelioFallClass/Assets/ArtisanDream.Legacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass/HelioFallClass/Assets/NavMeshComponents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass/HelioFallClass/Assets/Unity.Basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/HelioClass/HelioFallClass/Assets/Unity.CSharp.Basics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Assets/NavMeshComponents" vcs="Git" />
   </component>
 </project>

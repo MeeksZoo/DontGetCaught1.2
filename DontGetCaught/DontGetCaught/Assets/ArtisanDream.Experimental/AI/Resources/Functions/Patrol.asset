@@ -15,37 +15,16 @@ MonoBehaviour:
   AngularSpeed: {fileID: 11400000, guid: dcfee141f7e474c3ca926c46b7399005, type: 2}
   NextPatrol:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 4ef9ca341585f4e249406203e9fffdb1, type: 2}
-        m_MethodName: ActionCall
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   EndPatrol:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 4ef9ca341585f4e249406203e9fffdb1, type: 2}
-        m_MethodName: ActionCall
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  SendCoroutine: {fileID: 0}
   AddPointsToList: {fileID: 11400000, guid: 5469c199940c34043b5d7e4e873ae6bb, type: 2}
   AddPointList: {fileID: 11400000, guid: 5469c199940c34043b5d7e4e873ae6bb, type: 2}
-  distance: 0
-  HoldTime: 2
+  distance: {fileID: 11400000, guid: 5d04486843b8b42888de2d363e638a57, type: 2}
+  HoldTime: {fileID: 11400000, guid: 30f7973281eb44e8fb7651b37ee17e7c, type: 2}

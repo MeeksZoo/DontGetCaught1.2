@@ -38,6 +38,296 @@
             <e p="FloatBase.cs" t="Include" />
           </e>
         </e>
+        <e p="HelioClass" t="Include">
+          <e p="HelioFallClass" t="Include">
+            <e p="Assets" t="Include">
+              <e p="ArtisanDream.Experimental" t="Include">
+                <e p="Behaviours" t="Include">
+                  <e p="TriggerCall.cs" t="Include" />
+                </e>
+                <e p="Color" t="Include">
+                  <e p="ChangeColor.cs" t="Include" />
+                  <e p="ChangeSpriteColor.cs" t="Include" />
+                </e>
+                <e p="Converter" t="Include">
+                  <e p="Converter.cs" t="Include" />
+                </e>
+                <e p="Counter" t="Include">
+                  <e p="Counter.cs" t="Include" />
+                  <e p="PerpetualCounter.cs" t="Include" />
+                  <e p="RunCountDown.cs" t="Include" />
+                </e>
+                <e p="Draggable" t="Include">
+                  <e p="Behaviours" t="Include">
+                    <e p="DraggableObject.cs" t="Include" />
+                    <e p="DragMove.cs" t="Include" />
+                  </e>
+                  <e p="DragFreeRotation.cs" t="Include" />
+                  <e p="DragLimitedRotation.cs" t="Include" />
+                  <e p="DragRotationBase.cs" t="Include" />
+                  <e p="DragRotClick.cs" t="Include" />
+                  <e p="Interfaces" t="Include">
+                    <e p="IDrag.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="GameStates" t="Include">
+                  <e p="GameBrain.cs" t="Include" />
+                  <e p="GameBrainBehaviour.cs" t="Include" />
+                  <e p="GameStateBase.cs" t="Include" />
+                  <e p="GameStateBehaviour.cs" t="Include" />
+                  <e p="RunGame.cs" t="Include" />
+                  <e p="StartGame.cs" t="Include" />
+                </e>
+                <e p="instancing" t="Include">
+                  <e p="InstanceObject.cs" t="Include" />
+                </e>
+                <e p="Interfaces" t="Include">
+                  <e p="CallBase.cs" t="Include" />
+                  <e p="ICall.cs" t="Include" />
+                </e>
+                <e p="Invoking" t="Include">
+                  <e p="InvokeBase.cs" t="Include" />
+                </e>
+                <e p="Matching" t="Include">
+                  <e p="MatchID.cs" t="Include" />
+                  <e p="ObjectID.cs" t="Include" />
+                </e>
+                <e p="Random" t="Include">
+                  <e p="RandomColor.cs" t="Include" />
+                  <e p="RandomObjectHandler.cs" t="Include" />
+                  <e p="RandomObjectSelector.cs" t="Include" />
+                  <e p="RandomValue.cs" t="Include" />
+                </e>
+                <e p="SingleVariables" t="Include">
+                  <e p="ColorData.cs" t="Include" />
+                  <e p="FloatTypes" t="Include">
+                    <e p="float3.cs" t="Include" />
+                    <e p="FloatAxis.cs" t="Include" />
+                    <e p="FloatBool.cs" t="Include" />
+                    <e p="FloatBoolAndCount.cs" t="Include" />
+                    <e p="StringData.cs" t="Include" />
+                  </e>
+                  <e p="IntData.cs" t="Include" />
+                  <e p="NameID.cs" t="Include" />
+                  <e p="Vector3Data.cs" t="Include" />
+                </e>
+                <e p="Snapping" t="Include">
+                  <e p="SnapOn.cs" t="Include" />
+                </e>
+                <e p="Store" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Objects.cs" t="Include" />
+                    <e p="Store.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Transforming" t="Include">
+                  <e p="Movements.cs" t="Include" />
+                  <e p="TransformObject.cs" t="Include" />
+                </e>
+                <e p="Utilities" t="Include">
+                  <e p="DebugObject.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ArtisanDream.Legacy" t="Include">
+                <e p="Examples" t="Include">
+                  <e p="HealthBehaviour.cs" t="Include" />
+                  <e p="PlayerTrigger.cs" t="Include" />
+                </e>
+                <e p="FunctionBase.cs" t="Include" />
+                <e p="SendAndGetObject.cs" t="Include" />
+              </e>
+              <e p="Game" t="Include">
+                <e p="Resources" t="Include">
+                  <e p="Letters" t="Include">
+                    <e p="HoldID.cs" t="Include" />
+                    <e p="TestID.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="SpaceCraft 0" t="Include">
+                  <e p="Readme.txt" t="Include" />
+                </e>
+              </e>
+              <e p="NavMeshComponents" t="Include">
+                <e p="Assets" t="Include">
+                  <e p="Examples" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="NavMeshComponentsExamplesEditor.asmdef" t="Include" />
+                      <e p="NavMeshPrefabInstanceEditor.cs" t="Include" />
+                    </e>
+                    <e p="NavMeshComponentsExamples.asmdef" t="Include" />
+                    <e p="Scripts" t="Include">
+                      <e p="AgentLinkMover.cs" t="Include" />
+                      <e p="ClickToMove.cs" t="Include" />
+                      <e p="DestroyOnTrigger.cs" t="Include" />
+                      <e p="DungeonManager.cs" t="Include" />
+                      <e p="EnableIffSleeping.cs" t="Include" />
+                      <e p="FreeCam.cs" t="Include" />
+                      <e p="LocalNavMeshBuilder.cs" t="Include" />
+                      <e p="MeshTool.cs" t="Include" />
+                      <e p="NavMeshPrefabInstance.cs" t="Include" />
+                      <e p="NavMeshSourceTag.cs" t="Include" />
+                      <e p="Oscillator.cs" t="Include" />
+                      <e p="RandomInstancing.cs" t="Include" />
+                      <e p="RandomWalk.cs" t="Include" />
+                      <e p="SpawnPrefabOnKeyDown.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="NavMeshComponents" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+                      <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                      <e p="NavMeshLinkEditor.cs" t="Include" />
+                      <e p="NavMeshModifierEditor.cs" t="Include" />
+                      <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                      <e p="NavMeshSurfaceEditor.cs" t="Include" />
+                    </e>
+                    <e p="Scripts" t="Include">
+                      <e p="NavMeshComponents.asmdef" t="Include" />
+                      <e p="NavMeshLink.cs" t="Include" />
+                      <e p="NavMeshModifier.cs" t="Include" />
+                      <e p="NavMeshModifierVolume.cs" t="Include" />
+                      <e p="NavMeshSurface.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Tests" t="Include">
+                    <e p="NavMeshComponentsPlaymodeTests.asmdef" t="Include" />
+                    <e p="NavMeshSurfaceAgentTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceLinkTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceModifierTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceModifierVolumeTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceTests.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ProjectSettings" t="Include">
+                  <e p="ProjectVersion.txt" t="Include" />
+                </e>
+              </e>
+              <e p="StartGameBehaviour.cs" t="Include" />
+              <e p="Unity.CSharp.Basics" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Accessor" t="Include">
+                    <e p="Accessors.cs" t="Include" />
+                  </e>
+                  <e p="Arrays" t="Include">
+                    <e p="LetterArray.cs" t="Include" />
+                  </e>
+                  <e p="Classes" t="Include">
+                    <e p="FirstClass.cs" t="Include" />
+                  </e>
+                  <e p="Conventions" t="Include">
+                    <e p="Conventions.cs" t="Include" />
+                  </e>
+                  <e p="Destroy" t="Include">
+                    <e p="DestroyObject.cs" t="Include" />
+                  </e>
+                  <e p="Events" t="Include">
+                    <e p="MouseDownEvent.cs" t="Include" />
+                    <e p="TriggerEvent.cs" t="Include" />
+                  </e>
+                  <e p="Extras" t="Include">
+                    <e p="ChangeColor.cs" t="Include" />
+                  </e>
+                  <e p="ForEachLoops" t="Include">
+                    <e p="GameObjectLoop.cs" t="Include" />
+                    <e p="LetterInstanceLoop.cs" t="Include" />
+                    <e p="LetterLoop.cs" t="Include" />
+                  </e>
+                  <e p="ForLoops" t="Include">
+                    <e p="LetterForLoop.cs" t="Include" />
+                    <e p="NumberLooping.cs" t="Include" />
+                  </e>
+                  <e p="IfStatements" t="Include">
+                    <e p="IsItTrue.cs" t="Include" />
+                  </e>
+                  <e p="Inheritance" t="Include">
+                    <e p="Animal.cs" t="Include" />
+                  </e>
+                  <e p="KeyWords" t="Include">
+                    <e p="CSharp" t="Include">
+                      <e p="CSharpKeyWords.cs" t="Include" />
+                    </e>
+                    <e p="Unity" t="Include">
+                      <e p="UnityKeyWords.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Lists" t="Include">
+                    <e p="AddToCollection.cs" t="Include" />
+                    <e p="AnimalList.cs" t="Include" />
+                    <e p="CollectionList.cs" t="Include" />
+                    <e p="ObjectCollection.cs" t="Include" />
+                  </e>
+                  <e p="Methods" t="Include">
+                    <e p="Instancing.cs" t="Include" />
+                    <e p="Overloading" t="Include">
+                      <e p="Overloading.cs" t="Include" />
+                    </e>
+                    <e p="VoidMethods.cs" t="Include" />
+                    <e p="WithPerameters" t="Include">
+                      <e p="WithParameters.cs" t="Include" />
+                    </e>
+                    <e p="WithReturns" t="Include">
+                      <e p="Returns.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="MonoBehaviour" t="Include">
+                    <e p="MonoBehaviours.cs" t="Include" />
+                  </e>
+                  <e p="Operators" t="Include">
+                    <e p="Assignment" t="Include">
+                      <e p="AssignmentOperator.cs" t="Include" />
+                    </e>
+                    <e p="Equality" t="Include">
+                      <e p="EqualityOperators.cs" t="Include" />
+                    </e>
+                    <e p="Logical" t="Include">
+                      <e p="LogicalOperators.cs" t="Include" />
+                    </e>
+                    <e p="Math" t="Include">
+                      <e p="MathOperators.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Physics" t="Include">
+                    <e p="AddingForce.cs" t="Include" />
+                  </e>
+                  <e p="Scope" t="Include">
+                    <e p="AccessModifiers" t="Include">
+                      <e p="PublicOrPrivate.cs" t="Include" />
+                    </e>
+                    <e p="LocalVars.cs" t="Include" />
+                    <e p="ScopeAndAccess.cs" t="Include" />
+                  </e>
+                  <e p="ScriptableObjects" t="Include">
+                    <e p="NameID.cs" t="Include" />
+                    <e p="Simple.cs" t="Include" />
+                  </e>
+                  <e p="SwitchStatements" t="Include">
+                    <e p="SwitchStatements.cs" t="Include" />
+                  </e>
+                  <e p="Variables" t="Include">
+                    <e p="Fields" t="Include">
+                      <e p="FieldVariables.cs" t="Include" />
+                    </e>
+                    <e p="Parameters" t="Include">
+                      <e p="Parameters.cs" t="Include" />
+                    </e>
+                    <e p="Variables.cs" t="Include" />
+                  </e>
+                  <e p="WhileLoops" t="Include">
+                    <e p="WhileLoops.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+          <e p="New Unity Project" t="Include">
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="NavMeshComponents" t="Include">
           <e p="NavMesh_Project" t="Include">
             <e p="Assets" t="Include">
@@ -118,6 +408,9 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AddColor.cs" t="Include" />
+          <e p="CharacterMovers" t="Include">
+            <e p="MoveOnMouseDown.cs" t="Include" />
+          </e>
           <e p="UnityActionLight" t="Include">
             <e p="LightAction.cs" t="Include" />
           </e>
@@ -125,6 +418,11 @@
       </e>
       <e p="DontGetCaught.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamples.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamplesEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsPlaymodeTests.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Temp" t="ExcludeRecursive">
