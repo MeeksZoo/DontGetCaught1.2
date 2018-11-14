@@ -5,13 +5,9 @@
       <File FileName="Assets/Scripts/UnityActionLight/LightAction.cs" Line="1" Column="1" />
       <File FileName="Assets/ArtisanDream.Experimental/AI/Scripts/AiHunt.cs" Line="18" Column="3" />
       <File FileName="Assets/AIProgram/AiBase.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CharacterMovers/ClickToMove.cs" Line="4" Column="1" />
       <File FileName="Assets/Scripts/CharacterMovers/MoveOnMouseDown.cs" Line="8" Column="17" />
-      <File FileName="Assets/ArtisanDream.Experimental/AI/Scripts/AiPatrol.cs" Line="75" Column="2" />
+      <File FileName="Assets/ArtisanDream.Experimental/AI/Scripts/AiPatrol.cs" Line="27" Column="1" />
       <File FileName="Assets/ArtisanDream.Experimental/AI/Scripts/AddPatrolPointsList.cs" Line="22" Column="2" />
-      <File FileName="Assets/HelioClass/HelioFallClass/Assets/ArtisanDream.Experimental/SingleVariables/FloatTypes/FloatBool.cs" Line="10" Column="31" />
-      <File FileName="Assets/HelioClass/HelioFallClass/Assets/ArtisanDream.Experimental/SingleVariables/Vector3Data.cs" Line="8" Column="1" />
-      <File FileName="Assets/HelioClass/HelioFallClass/Assets/ArtisanDream.Experimental/Color/ChangeColor.cs" Line="1" Column="1" />
       <File FileName="Assets/ArtisanDream.Tools/Actions/GameAction.cs" Line="36" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>

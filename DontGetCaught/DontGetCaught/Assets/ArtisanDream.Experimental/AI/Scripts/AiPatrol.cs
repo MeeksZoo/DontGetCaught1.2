@@ -20,7 +20,7 @@ public class AiPatrol : AiBase
     public FloatData distance;
     public FloatData HoldTime;
 
-    public List<Vector3Data> PatrolPoints { get; set; }
+    public List<PatrolPoint> PatrolPoints { get; set; }
 
     private void OnEnable()
     {
@@ -33,12 +33,12 @@ public class AiPatrol : AiBase
 
     private void AddPatrolPoints(object obj)
     {
-        PatrolPoints.Add(obj as Vector3Data);
+        PatrolPoints.Add(obj as PatrolPoint);
     }
 
     private void AddPatrolPointList(object obj)
     {
-        PatrolPoints = obj as List<Vector3Data>;
+        PatrolPoints = obj as List<PatrolPoint>;
     }
 
     public void RestartPatrol()
@@ -49,6 +49,7 @@ public class AiPatrol : AiBase
     public override IEnumerator Nav(NavMeshAgent ai)
     {
         yield return new WaitForSeconds(HoldTime.Value);
+
         ai.SetDestination(PatrolPoints[i].Value);
         var canRun = true;
         while (canRun)

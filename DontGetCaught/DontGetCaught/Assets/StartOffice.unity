@@ -151,7 +151,7 @@ SphereCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 106608142}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -560,7 +560,7 @@ SphereCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1274998642}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1274998642}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 19ec595f0024b440f9b6bf063af904c3, type: 3}
   m_Name: 
@@ -981,14 +981,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PatrolPoints:
-  - {fileID: 11400000, guid: 0135b415597c54eaea323c8f3e7f580b, type: 2}
-  - {fileID: 11400000, guid: 278ef22fcf3fe425f9d80e2cb7cb7fb0, type: 2}
-  - {fileID: 11400000, guid: 7909e90393e7842f9932e083e46dce72, type: 2}
-  - {fileID: 11400000, guid: 1677946ca3e0a4037a7da7d89adfd372, type: 2}
+  - {fileID: 11400000, guid: 51303de1dbcc441ea86ceea2550d59ff, type: 2}
+  - {fileID: 11400000, guid: 275e8110339e544138a2cf2d1d18a837, type: 2}
+  - {fileID: 11400000, guid: 499d5e7d29d1045e48662153c4f2d61b, type: 2}
+  - {fileID: 11400000, guid: 1ccb37a5673524c80a36dd694333b2b3, type: 2}
   UpdateInfo:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: 0135b415597c54eaea323c8f3e7f580b, type: 2}
+      - m_Target: {fileID: 11400000, guid: 51303de1dbcc441ea86ceea2550d59ff, type: 2}
         m_MethodName: UpdateData
         m_Mode: 2
         m_Arguments:
@@ -999,7 +999,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: 278ef22fcf3fe425f9d80e2cb7cb7fb0, type: 2}
+      - m_Target: {fileID: 11400000, guid: 275e8110339e544138a2cf2d1d18a837, type: 2}
         m_MethodName: UpdateData
         m_Mode: 2
         m_Arguments:
@@ -1010,7 +1010,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: 7909e90393e7842f9932e083e46dce72, type: 2}
+      - m_Target: {fileID: 11400000, guid: 499d5e7d29d1045e48662153c4f2d61b, type: 2}
         m_MethodName: UpdateData
         m_Mode: 2
         m_Arguments:
@@ -1021,7 +1021,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: 1677946ca3e0a4037a7da7d89adfd372, type: 2}
+      - m_Target: {fileID: 11400000, guid: 1ccb37a5673524c80a36dd694333b2b3, type: 2}
         m_MethodName: UpdateData
         m_Mode: 2
         m_Arguments:
